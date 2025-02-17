@@ -27,3 +27,5 @@ O banco de dados segue um **modelo relacional** estruturado para garantir organi
 🚀 Tecnologias Utilizadas
 MySQL Workbench / Draw.io - Para criação do diagrama entidade-relacionamento (DER).
 GitHub - Para versionamento e compartilhamento do projeto.
+
+![Diagrama Conceitual](ModeloConceitualOficina.drawio.png)
